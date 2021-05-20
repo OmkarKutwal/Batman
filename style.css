@@ -40,6 +40,7 @@ p {
 }
 
 #image {
+    float: left;
     padding: 0 20px 20px 20px;
 }
 
@@ -138,7 +139,7 @@ tr:hover {
     }
 } */
 
-@media (min-width:641px) {
+/* @media (min-width:641px) {
     .container {
         width: 641px;
     }
@@ -160,7 +161,7 @@ tr:hover {
     .thumbnail h4{
         color: black;
     }
-}
+} */
 
 /* @media (min-width:961px){
     .container{
